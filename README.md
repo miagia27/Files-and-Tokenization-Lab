@@ -1,11 +1,9 @@
-Dictionaries
+Tokens and Types
 ------
-
-<a title="Papers-Culture, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Catalano_latinum_1696_Gazophylacium_Dictionary_published_in_Barcelona.jpg"><img width="512" alt="Catalano latinum 1696 Gazophylacium Dictionary published in Barcelona" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Catalano_latinum_1696_Gazophylacium_Dictionary_published_in_Barcelona.jpg/512px-Catalano_latinum_1696_Gazophylacium_Dictionary_published_in_Barcelona.jpg?20230201015558"></a>
 
 ## How to use this lab
 
-Create a codespace and follow the instructions in dictionaries.ipynb.
+Create a codespace and follow the instructions in lab.ipynb.
 
 # LICENSE
 
